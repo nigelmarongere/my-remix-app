@@ -1,0 +1,1 @@
+import{n as s,M as e,L as i,O as n,S as r}from"./components-DnECfmfE.js";function a(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(e,{}),s.jsx(i,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Remix is running!"}),s.jsx(n,{}),s.jsx(r,{})]})]})}export{a as default};
